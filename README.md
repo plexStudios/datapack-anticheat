@@ -7,6 +7,12 @@ After downloading the version that you want, simply move it into the datapacks f
 ```
 Depending on your operating system this may differ.
 
+If you are already on the world type 
+```
+/reload
+```
+Then follow any other steps.
+
 To set up the anticheat in versions 0.3 and later, you must first type
 ```
 /function ac:autochecks
