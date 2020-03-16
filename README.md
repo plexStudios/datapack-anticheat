@@ -1,6 +1,12 @@
 # Datapack Anticheat
 
-## Notes
+## Install
+After downloading the version that you want, simply move it into the datapacks folder located in
+```
+%appdata%/.minecraft/saves/{YOUR WORLD}/datapacks
+```
+Depending on your operating system this may differ.
+
 To set up the anticheat in versions 0.3 and later, you must first type
 ```
 /function ac:autochecks
