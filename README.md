@@ -18,3 +18,5 @@ To set up the anticheat in versions 0.3 and later, you must first type
 
 ## Changelog
 ### 0.4
+* Fixed major issue where players could be teleported across the map
+* Fixed minor issues such as players getting detected for nofall after landing on a slime block
