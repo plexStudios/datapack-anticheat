@@ -2,22 +2,22 @@
 
 ## Install
 After downloading the version that you want, simply move it into the datapacks folder located in
-```
+**```
 %appdata%/.minecraft/saves/{YOUR WORLD}/datapacks
-```
+```**
 Depending on your operating system this may differ.
 
 ## Setup
 On the world that you installed the datapack onto, type
-```
+**```
 /reload
-```
+```**
 This will then load the datapack into the world.
 
 To set up the anticheat in versions 0.3 and later, you must first type
-```
+**```
 /function ac:autochecks
-```
+```**
 
 ## Features
 * Jesus detection
