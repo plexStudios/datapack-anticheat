@@ -17,12 +17,12 @@ For instance, if I were to download version 0.4, I would type
 ```
 /Troned/datapack-anticheat/raw/master/anticheat%20-%200.4.zip
 ```
-
-If you are already on the world type 
+### Setup
+On the world that you installed the datapack onto, type
 ```
 /reload
 ```
-Then follow any other steps.
+This will then load the datapack into the world.
 
 To set up the anticheat in versions 0.3 and later, you must first type
 ```
