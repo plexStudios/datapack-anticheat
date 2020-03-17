@@ -40,3 +40,6 @@ To set up the anticheat in versions 0.3 and later, you must first type
 
 ### 0.2
 * Fixed issues with speed and killaura
+
+## Notes
+Feel free to branch this project, just make sure to credit me.
