@@ -1,11 +1,22 @@
 # Datapack Anticheat
 
 ## Install
+### Regular
 After downloading the version that you want, simply move it into the datapacks folder located in
 ```
 %appdata%/.minecraft/saves/{YOUR WORLD}/datapacks
 ```
 Depending on your operating system this may differ.
+### Command line
+If you have git capabilities in your command line, you can use this method.
+Open a terminal in the directory that you wish to clone to, then type
+```
+git clone https://github.com/Troned/datapack-anticheat/raw/master/anticheat%20-%20{VERSION}.zip
+```
+For instance, if I were to download version 0.4, I would type
+```
+/Troned/datapack-anticheat/raw/master/anticheat%20-%200.4.zip
+```
 
 If you are already on the world type 
 ```
