@@ -30,6 +30,9 @@ To set up the anticheat in versions 0.3 and later, you must first type
 * Enabling and disabling checks
 
 ## Changelog
+### 0.6
+* Fixed nofall false activating occasionally if the server lagged
+
 ### 0.5
 * Fixed issue where disabling the speed check would break other checks
 * Fixed issues with nofall
