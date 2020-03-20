@@ -3,7 +3,7 @@
 ## Install
 After downloading the version that you want, simply move it into the datapacks folder located in
 ```
-%appdata%/.minecraft/saves/{YOUR WORLD}/datapacks
+%appdata%\.minecraft\saves\{YOUR WORLD}\datapacks
 ```
 Depending on your operating system this may differ.
 
