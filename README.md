@@ -30,6 +30,9 @@ To set up the anticheat in versions 0.3 and later, you must first type
 * Enabling and disabling checks
 
 ## Changelog
+### 0.6.2
+* Slow falling will no longer be detected as nofall
+
 ### 0.6.1
 * Fixed false fly activation when the user is affected with jump boost
 
