@@ -40,6 +40,8 @@ To set up the anticheat in versions 0.3 and later, you must first type
 ### 0.6.1
 * Fixed false fly activation when the user is affected with jump boost
 
+
+
 ### 0.6
 * Fixed nofall false activating occasionally if the server lagged
 
