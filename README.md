@@ -28,6 +28,7 @@ To set up the anticheat in versions 0.3 and later, you must first type
 * Nofall detection
 
 * Enabling and disabling checks
+* Better than Troned's anticheat
 
 ## Changelog
 ### 0.6.3
